@@ -8,3 +8,4 @@ Data Science Portfolio
 - Conducted valuations and regression techniques using the stock prices given and calculated their mean, median values.
 - Optimised Linear, Lasso and Random Forest Regressions using python libraries to reach the best model.
 
+This project is based on real time stock data 📊
