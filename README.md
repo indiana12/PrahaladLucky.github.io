@@ -1,2 +1,2 @@
-# PrahaladLucky.github.io
-PrahaladLucky.github.io/Portfolio
+# Prahalad_Portfolio
+Data Science Portfolio
